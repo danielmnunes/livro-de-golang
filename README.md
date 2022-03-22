@@ -1,2 +1,1 @@
-# livro-de-golang
-Implementações do Livro Go Programming Language
+# Implementações do Livro Go Programming Language
